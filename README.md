@@ -108,8 +108,8 @@ While building this project, I learned:
 
 Flutter Developer | Learning by Building Projects
 
-GitHub: https://github.com/yourusername
-LinkedIn: https://linkedin.com/in/yourusername
+GitHub: https://github.com/mehbobulhassan
+LinkedIn: https://linkedin.com/in/mehbobulhassan
 
 ---
 
